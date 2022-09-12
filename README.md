@@ -30,3 +30,8 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11156536"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+**GDP Data using Steamgraph**
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11156915"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
