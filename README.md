@@ -20,7 +20,7 @@ Make story telling using data easily readable
 # **Portfolio**<br/>
 This is where I'll be posting all cool stuff I create throughout the course!
 
-[General Government Debt chart from OEDC](/dataviz2.md)
+[Link to dataviz2.md](/dataviz2.md)
 
 ## **General Government Debt Data**<br/>
 
