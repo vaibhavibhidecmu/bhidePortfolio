@@ -1,6 +1,6 @@
-**Assignment 3 and 4**
+#**Assignment 3 and 4**
 
-**Critique by Design**
+###**Critique by Design**
 
 ### The article used for critiquing the data visualization is:
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257209
