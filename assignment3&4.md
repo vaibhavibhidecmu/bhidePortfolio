@@ -37,10 +37,16 @@ Keeping these points in mind, I designed a chart as below:
 3. Another thing that probably didn't work out was the long title. I got feedback to make it more concise and if required use a subtitle.
 4. One feedback that I receieved was to check if blue and green bars can be used side by side, as one ought to be inclusive of color-blind people. 
 <br/>
+
 ### After recieving the feedback, I uploaded my data in flourish and came up with the following iteration of visualization:
+## Iteration 1:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11240281"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+After coming up with this data visualization, it still did not emphasize the trend and focus that I wanted the user to read from the chart. So I came up with a second iteration round where I used one focus color to highlight "Abandonment/ Orphaned and Collision with vehicle" and made all the other groups grey so that they can be viewed as background. 
+## Iteration 2:
+<div class="flourish-embed flourish-chart" data-src="visualisation/11239161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
