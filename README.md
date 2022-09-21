@@ -42,6 +42,5 @@ In the given chart below, the Debt to GDP ratio is depicted country wise in a gr
 I tried to use area graph, pie chart and steamgraph to visualize the same data. The area graph gives a similar output like the line graph with the exception of having a shaded area that considers the entire value of the points upto the line. Steamgraph alowed to identify the trends over the time range by showing throughs and peaks. I decided to choose the bar graph because it depicts every year as a bar (very similar to area graph except data is depicted as bars) and it looks more readable as bars once the X-axis is labelled to show the years. <br/>
 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11239161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/11156915"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
