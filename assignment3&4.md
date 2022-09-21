@@ -12,8 +12,6 @@ The main idea is to understand main causes of rescue for animal groups - mammals
 
 ### **I picked Figure 2 from the article to critique and improve the data visualization.** 
 
-<br/>
-
 ## **The chart is:**
 <br/>
 
