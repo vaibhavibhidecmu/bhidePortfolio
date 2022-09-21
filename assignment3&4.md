@@ -20,7 +20,18 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257209
 
 ## Process of rebuilding visualization
 <br/>
+A couple of points that I thought confused me:
+1. Too many colors are dsitracting and don't emphasize any particular meaning out of the chart
+2. Including the total bar is adding no extra value
+3. The chart's title is generic and does not convey the message that the major cause of rescues that need to be tackled
+<br/>
+Keeping these points in mind, I designed a chart as below:
+<br/>
 
+<br/>
+### The feedback I recieved from my peers when they critiqued my visualization is that:
+<br/>
+1. They liked the fact that I used colors to highlight the main cause of rescues which are: "
 
 
 
