@@ -22,13 +22,14 @@ The main idea is to understand main causes of rescue for animal groups - mammals
 
 ## Process of rebuilding visualization
 <br/>
-A couple of points that I thought confused me:
+A couple of points that I thought confused me: <br/>
 1. Too many colors are dsitracting and don't emphasize any particular meaning out of the chart.
 2. Including the total bar is adding no extra value
 3. The chart's title is generic and does not convey the message that the major cause of rescues that need to be tackled
 <br/>
 Keeping these points in mind, I designed a chart as below:
 <br/>
+![IMG-8311](https://user-images.githubusercontent.com/112992760/191398517-36d7227e-c629-49d8-8a30-39aa308cb961.jpg)
 
 <br/>
 ### The feedback I recieved from my peers when they critiqued my visualization is that:
