@@ -12,7 +12,9 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257209
 #### I picked Figure 2 from the article to critique and improve the data visualization. The chart is:
 <br/>
 <br/>
-![journal pone 0257209 g002](https://user-images.githubusercontent.com/112992760/191389328-ce043014-8624-4c60-884f-562203334533.PNG)
+
+![journal pone 0257209 g002](https://user-images.githubusercontent.com/112992760/191389420-5f8f74f6-2749-455c-8eb1-3efcb5b0efe1.PNG)
+
 
 
 
