@@ -23,7 +23,7 @@ The main idea is to understand main causes of rescue for animal groups - mammals
 ## Process of rebuilding visualization
 <br/>
 A couple of points that I thought confused me:
-1. Too many colors are dsitracting and don't emphasize any particular meaning out of the chart
+1. Too many colors are dsitracting and don't emphasize any particular meaning out of the chart.
 2. Including the total bar is adding no extra value
 3. The chart's title is generic and does not convey the message that the major cause of rescues that need to be tackled
 <br/>
