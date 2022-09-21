@@ -23,6 +23,6 @@ This is where I'll be posting all cool stuff I create throughout the course!
 [Link to Assignment 2](/dataviz2.md)
 <br/>
 
-[Link to Assignment 3 and 4](/assignment3&4.md)
+[Link to Assignment 3 and 4]([/assignment3&4.md](https://vaibhavibhidecmu.github.io/bhidePortfolio/assignment3&4))
 
 
