@@ -6,6 +6,9 @@
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257209
 
 ### **The article is on "Trends in wildlife rehabilitation rescues and animal fate across a six-year period in New South Wales, Australia"**
+For the purpose of this assignment I have focused on the chart and data regarding main causes of rescue for the wildlife animal taxonomic groups - mammals, reptiles and birds that have been collected over a period of six years (2013-2019) from the location of New South Wales because it has about a third of active wildlife rehabilitation volunteers in Australia. 
+
+### **Reason to pick this particular article**
 The main idea is to understand main causes of rescue for animal groups - mammals, birds, reptiles in order to understand what rehabilitation efforts need to be focused on. I picked this article particularly because it is somewhat relevant to a topic that is important to me- animal welfare by enhancing emergency vehicles for animals/ pets thereby reducing fatalities. Since I was unable to get direct data for this topic, this article falls close enough. 
 <br/>
 
@@ -33,7 +36,7 @@ Keeping these points in mind, I designed a chart as below:
 
 <br/>
 ### The feedback I recieved from my peers when they critiqued my visualization is that:
-1. They liked the fact that I used colors to highlight the main cause of rescues which are: "Abandoned/ Orphaned and Collision with vehicle"
+1. They liked the fact that I used colors to highlight the main cause of rescues which are: "Abandoned/ Orphaned , Unsuitable environment and Collision with vehicle"
 2. What didn't work was the use of bar chart. They felt that it would look better if I used a stacked bar chart that had filters so that it's easier for the reader as the number of bars are reduced and on pointing the cursor on each bar segment, one could learn the percentage for that animal group for that particular rescue cause. The filter would help make the stacked bar chart unstacked, which can be easier to read if one wants to look at one particular animal group data.
 3. Another thing that probably didn't work out was the long title. I got feedback to make it more concise and if required use a subtitle.
 4. One feedback that I receieved was to check if blue and green bars can be used side by side, as one ought to be inclusive of color-blind people. 
@@ -45,7 +48,7 @@ Keeping these points in mind, I designed a chart as below:
 <div class="flourish-embed flourish-chart" data-src="visualisation/11240281"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-After coming up with this data visualization, it still did not emphasize the trend and focus that I wanted the user to read from the chart. So I came up with a second iteration round where I used one focus color to highlight "Abandonment/ Orphaned and Collision with vehicle" and made all the other groups grey so that they can be viewed as background. 
+After coming up with this data visualization, it still did not emphasize the trend and focus that I wanted the user to read from the chart. So I came up with a second iteration round where I used one focus color (green) to highlight "Abandonment/ Orphaned, Unsuitable environment and Collision with vehicle" and made all the other groups grey so that they can be viewed as background. 
 ## Iteration 2:
 <div class="flourish-embed flourish-chart" data-src="visualisation/11239161"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
