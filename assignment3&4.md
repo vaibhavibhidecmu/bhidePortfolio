@@ -39,8 +39,8 @@ Keeping these points in mind, I designed a chart as below:
 <br/>
 
 ![IMG-8311](https://user-images.githubusercontent.com/112992760/191398517-36d7227e-c629-49d8-8a30-39aa308cb961.jpg)
-
 <br/>
+
 ### The feedback I recieved from my peers when they critiqued my visualization is that:
 <br/>
 ### Feedback 1 (Student mid-20s)
