@@ -18,6 +18,10 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257209
 <br/>
 ![journal pone 0257209 t007](https://user-images.githubusercontent.com/112992760/191390063-104c0a3f-b477-4663-9674-aca9901c9e80.PNG)
 
+## Process of rebuilding visualization
+<br/>
+
+
 
 
 
