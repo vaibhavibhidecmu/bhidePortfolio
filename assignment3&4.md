@@ -42,8 +42,6 @@ Keeping these points in mind, I designed a chart as below:
 <br/>
 
 ### The feedback I recieved from my peers when they critiqued my visualization is that:
-<br/>
-
 ### Feedback 1 (Student mid-20s)
 1. They liked the fact that I used colors to highlight the main cause of rescues which are: "Abandoned/ Orphaned , Unsuitable environment and Collision with vehicle"
 2. What didn't work was the use of bar chart. They felt that it would look better if I used a stacked bar chart that had filters so that it's easier for the reader as the number of bars are reduced and on pointing the cursor on each bar segment, one could learn the percentage for that animal group for that particular rescue cause. The filter would help make the stacked bar chart unstacked, which can be easier to read if one wants to look at one particular animal group data.
