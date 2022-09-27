@@ -7,10 +7,14 @@ As part of my final project I wanted to focus on animal welfare as it holds a so
 Many pets - mostly dogs and considered considered for this data visualization, have been surrendered by their owners for numerous reasons pre pandemic thus owing to rehoming of these pets
 
 ### Conflict
+Pets that were surendered get rehomed, which stimulates anxiety, fear and sadness in many. Pet owners have multiple reasons to relinquish their pets that range from personal problems like allergies or a new baby in house to financial issues for pet supplies and medical care and majorly ample time to spend with their pets
 
+### Resolution
+In recent years pets being rehomed has been reduced owing to increased adoption and pandemic impact that have made pet owners more open to keeping their pets. There is also improvement in terms of animal shelters providing assistance to pet owners. 
 
 ## Initial sketches
 
 ## Supporting Data
+
 
 ## Method and Medium
