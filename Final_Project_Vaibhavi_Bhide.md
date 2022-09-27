@@ -15,6 +15,9 @@ In recent years pets being rehomed has been reduced owing to increased adoption 
 ## Initial sketches
 
 ## Supporting Data
+There are couple of researches that involved in understanding re-homing, relinquishment/ surrendering by owners and COVID impacts on pet adoption or retention
+<br/>
+Firstly, I learned about re-homing from a Scientific Research publishing article - "Goodbye to a Good Friend: An Exploration of the Re-Homing of Cats and Dogs in the U.S." This article has a compehensive analysis on the who, what and how are animals being replaced in the US. Demographics of people re-homing pets, their reasons and ways of re-homing as well as the statistics for how many pets category wise (dogs and cats) have been studied throuh surveys and data collected from animal shelters. 
 
 
 ## Method and Medium
