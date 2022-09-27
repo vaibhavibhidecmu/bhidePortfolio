@@ -17,8 +17,13 @@ In recent years pets being rehomed has been reduced owing to increased adoption 
 ## Supporting Data
 There are couple of researches that involved in understanding re-homing, relinquishment/ surrendering by owners and COVID impacts on pet adoption or retention
 <br/>
-Firstly, I learned about re-homing from a Scientific Research publishing article - "Goodbye to a Good Friend: An Exploration of the Re-Homing of Cats and Dogs in the U.S." This article has a compehensive analysis on the who, what and how are animals being replaced in the US. Demographics of people re-homing pets, their reasons and ways of re-homing as well as the statistics for how many pets category wise (dogs and cats) have been studied throuh surveys and data collected from animal shelters. 
-<span style="color:blue">some *blue* text</span>
+Firstly, I learned about re-homing from a ASPCA's Scientific Research publishing article - "Goodbye to a Good Friend: An Exploration of the Re-Homing of Cats and Dogs in the U.S." This article has a compehensive analysis on the who, what and how are animals being replaced in the US. Demographics of people re-homing pets, their reasons and ways of re-homing as well as the statistics for how many pets category wise (dogs and cats) have been studied throuh surveys and data collected from animal shelters. A telephonic survey was conducted to ask people 14 questions related to re-homing, to understand the reasons and frequency of rehoming. These 14 questions were eventually divided into four buckets as main reasons: 1. pet-related- behavioral issues or health issues that couldn't be handled 2. family-related- personal problems like allergies or new baby in home or divorce or lack of time 3. housing-related- landlord had a no pets policy or new house had carpet issues that could be maybe cause allergies for the animal 4. other. This survey also asked questions to pet owners that what would be potential resources that would have helped them retain their pets. 
+
+Secondly, owners reliquishing their pets or the net in and out number of pets in animal shelter from the data by Shelter Animals Count. This organization has monthly and yearly reports on the intake and outcome results of pet in animal shelters of US. Their intake report consists of categories - Stray, Owner Surrender, Returns, Transfer from another agency, Cruelty and outcome consists of categories - Adoption, Return to owner, Transfer out, Euthanasia, Died/ Lost in shelter care. 
+
+
+<br/>
+
 
 
 ## Method and Medium
