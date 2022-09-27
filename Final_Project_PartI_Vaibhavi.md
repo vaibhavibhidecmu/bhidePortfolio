@@ -25,9 +25,9 @@ Thirdly, I've used ASPCA again and a research paper on "Characterizing Pet Acqui
 <br/>
 
 ## Data Sources and Links
-1) Emily Weiss, Shannon Gramann, Victor Spain, and Margaret Slater. "Goodbye to a Good Friend: An Exploration of the Re-Homing of Cats and Dogs in the U.S.", Open Journal of Animal Sciences, 2015, 5, 435-456 (October 2015)
+1) Emily Weiss, Shannon Gramann, Victor Spain, and Margaret Slater. "Goodbye to a Good Friend: An Exploration of the Re-Homing of Cats and Dogs in the U.S.", Open Journal of Animal Sciences, 2015, 5, 435-456 (October 2015) <br/>
 https://file.scirp.org/pdf/OJAS_2015100914300959.pdf
-2) ASPCA. "Pet Statistics", https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics
+2) ASPCA. "Pet Statistics", https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics <br/>
 3) Animal Humane Society. "Lifesaving Statistics", https://www.animalhumanesociety.org/about/lifesaving-statistics
 4) Shelter Animals Count. "Data Dashboards", https://www.shelteranimalscount.org/data-dashboards/
 5) Shelter Animals Count. "Q1-Q4 Analysis 2019-2020-2021", https://www.shelteranimalscount.org/wp-content/uploads/2022/03/SACAnalysis_Q1Q4_031122.pdf
