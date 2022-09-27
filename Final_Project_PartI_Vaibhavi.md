@@ -24,4 +24,14 @@ Secondly, owners reliquishing their pets or the net in and out number of pets in
 Thirdly, I've used ASPCA again and a research paper on "Characterizing Pet Acquisition and Retention During the COVID-19 Pandemic" to analyze how the trend of pet relinquishing and retention has changed during the pandemic and post-pandemic. While the ASPCA results show that post-pandemic there has been an improvement in retention with 87% of dog and cat owners not considering re-homing, the research paper focuses more the duration during the pandemic and has results that show that net intake and outcome have not changed significantly but this also could not be fully accurate due to the pandemic restrictions. 
 <br/>
 
+## Data Sources and Links
+1) Emily Weiss, Shannon Gramann, Victor Spain, and Margaret Slater. "Goodbye to a Good Friend: An Exploration of the Re-Homing of Cats and Dogs in the U.S.", Open Journal of Animal Sciences, 2015, 5, 435-456 (October 2015)
+https://file.scirp.org/pdf/OJAS_2015100914300959.pdf
+2) ASPCA. "Pet Statistics", https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics
+3) Animal Humane Society. "Lifesaving Statistics", https://www.animalhumanesociety.org/about/lifesaving-statistics
+4) Shelter Animals Count. "Data Dashboards", https://www.shelteranimalscount.org/data-dashboards/
+5) Shelter Animals Count. "Q1-Q4 Analysis 2019-2020-2021", https://www.shelteranimalscount.org/wp-content/uploads/2022/03/SACAnalysis_Q1Q4_031122.pdf
+6) ASPCA. "New ASPCA Survey Shows Overwhelming Majority of Dogs and Cats Acquired During the Pandemic Are Still in Their Homes", https://www.aspca.org/about-us/press-releases/new-aspca-survey-shows-overwhelming-majority-dogs-and-cats-acquired-during
+7) 
+
 ## Method and Medium
