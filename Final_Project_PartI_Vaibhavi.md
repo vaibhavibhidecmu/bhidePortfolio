@@ -32,6 +32,7 @@ https://file.scirp.org/pdf/OJAS_2015100914300959.pdf
 4) Shelter Animals Count. "Data Dashboards", https://www.shelteranimalscount.org/data-dashboards/
 5) Shelter Animals Count. "Q1-Q4 Analysis 2019-2020-2021", https://www.shelteranimalscount.org/wp-content/uploads/2022/03/SACAnalysis_Q1Q4_031122.pdf
 6) ASPCA. "New ASPCA Survey Shows Overwhelming Majority of Dogs and Cats Acquired During the Pandemic Are Still in Their Homes", https://www.aspca.org/about-us/press-releases/new-aspca-survey-shows-overwhelming-majority-dogs-and-cats-acquired-during
-7) 
+7) Christy Hoffman, Melissa Thibault, Julie Hong. "Characterizing Pet Acquisition and Retention During the COVID-19 Pandemic" (November 18, 2021).
+https://www.frontiersin.org/articles/10.3389/fvets.2021.781403/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Veterinary_Science&id=781403#T2
 
 ## Method and Medium
