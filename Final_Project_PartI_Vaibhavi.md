@@ -55,9 +55,23 @@ https://file.scirp.org/pdf/OJAS_2015100914300959.pdf
 6) ASPCA. "New ASPCA Survey Shows Overwhelming Majority of Dogs and Cats Acquired During the Pandemic Are Still in Their Homes", https://www.aspca.org/about-us/press-releases/new-aspca-survey-shows-overwhelming-majority-dogs-and-cats-acquired-during <br/><br/>
 7) Christy Hoffman, Melissa Thibault, Julie Hong. "Characterizing Pet Acquisition and Retention During the COVID-19 Pandemic" (November 18, 2021).
 https://www.frontiersin.org/articles/10.3389/fvets.2021.781403/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Veterinary_Science&id=781403#T2
+8) Andrew Rowan, Tamara Kartal. "Dog Population & Dog Sheltering Trends in the United States of America", MDPI Open Access Journals (April 2018)
+https://www.mdpi.com/2076-2615/8/5/68
+9) Ashlee Tilford. "Survey: 78% of Pet Owners Acquired Pets During Pandemic", Forbes Advisor (April 2022)
+https://www.forbes.com/advisor/pet-insurance/survey-78-pet-owners-acquired-pets-during-pandemic/
 
 ## Method and Medium
 I will use Shorthand for showing my story. For the charts, I'll make use of Tableau and Flourish. <br/>
 In Shorthand, the idea I have in my mind is to make use of the Text over Media to have my project title over a media that shows an image of a happy pet in a home where people are probably working on their laptops (to emphasize harmony during pandemic which led to retention). Since, this is the first photo that the reader will see, I think it needs to be one that provokes a wholesome happy emotion so that they can get interested and continue reading. I will then use "Reveal" feature of Shorthand to show a story of images in the order - an owner relinquishing their pet to an animal shelter, pet in the animal shelter probably looking sad and distressed, pet being rehomed to another family (still seeming confused and unhappy), then a pandemic photo and a lockdown image, pets looking happier at their homes as their human owner is present with them more than before, owner enjoying pet company. While these images are being scrolled down, I will simlutaneously explain the idea behind the project using the "Scrollmation" feature. I will then depict some statistics and charts to show how the story speaks in terms of numbers and visualize using graphsthat are more interactive. I will have one section that has all the charts pulled from tables for readers who are more interested in the details behind the story. At the end I would like to have a "Call for Action" section where the highlighted message would be "Make your pets your family and don't give up on them!" 
+
+## References
+1. https://file.scirp.org/pdf/OJAS_2015100914300959.pdf
+2. https://www.frontiersin.org/articles/10.3389/fvets.2022.804154/full
+3. https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics
+4. https://www.shelteranimalscount.org/
+5. https://www.animalhumanesociety.org/about/lifesaving-statistics
+6. https://www.aspca.org/about-us/press-releases/new-aspca-survey-shows-overwhelming-majority-dogs-and-cats-acquired-during
+7. https://www.mdpi.com/2076-2615/8/5/68
+8. https://www.forbes.com/advisor/pet-insurance/survey-78-pet-owners-acquired-pets-during-pandemic/
 
 [Link back to Portfolio](https://vaibhavibhidecmu.github.io/bhidePortfolio/)
