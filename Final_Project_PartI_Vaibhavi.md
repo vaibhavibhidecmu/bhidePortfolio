@@ -14,7 +14,7 @@ In recent years pets being rehomed has been reduced owing to increased adoption 
 
 ## Initial sketches
 
-### Re-homing Data visualization
+## **Re-homing Data visualization**
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11305813"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -24,8 +24,10 @@ In recent years pets being rehomed has been reduced owing to increased adoption 
 
 <img width="800" alt="New Jersey Adopted Euthanized data" src="https://user-images.githubusercontent.com/112992760/192660121-3e61f485-127c-489c-9e2d-1e756562c7b8.png">
 
+## **Pet Adoption Increase**
 <img width="800" alt="Pet owner percent data 2019-present" src="https://user-images.githubusercontent.com/112992760/192661565-2ac918ae-1d80-4ee0-beb7-398af1e00ce4.png">
 
+## **Pet Retention Increase Post-Pandemic**
 <img width="800" alt="Post Pandemic retention pie chart" src="https://user-images.githubusercontent.com/112992760/192668218-e7388beb-0a48-4dab-8064-3e238ce6cb0d.png">
 
 
