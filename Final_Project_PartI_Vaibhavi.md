@@ -14,8 +14,13 @@ In recent years pets being rehomed has been reduced owing to increased adoption 
 
 ## Initial sketches
 
+### Re-homing Data visualization
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11305813"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11306133"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11306173"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Supporting Data
 There are couple of researches that involved in understanding re-homing, relinquishment/ surrendering by owners and COVID impacts on pet adoption or retention
