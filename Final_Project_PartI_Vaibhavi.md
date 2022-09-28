@@ -24,6 +24,9 @@ In recent years pets being rehomed has been reduced owing to increased adoption 
 
 <img width="800" alt="New Jersey Adopted Euthanized data" src="https://user-images.githubusercontent.com/112992760/192660121-3e61f485-127c-489c-9e2d-1e756562c7b8.png">
 
+<img width="800" alt="Pet owner percent data 2019-present" src="https://user-images.githubusercontent.com/112992760/192661565-2ac918ae-1d80-4ee0-beb7-398af1e00ce4.png">
+
+
 
 ## Supporting Data
 There are couple of researches that involved in understanding re-homing, relinquishment/ surrendering by owners and COVID impacts on pet adoption or retention
