@@ -12,6 +12,9 @@ Pets that were surendered get rehomed, which stimulates anxiety, fear and sadnes
 ### Resolution
 In recent years pets being rehomed has been reduced owing to increased adoption and pandemic impact that have made pet owners more open to keeping their pets. There is also improvement in terms of animal shelters providing assistance to pet owners. 
 
+![IMG-8391](https://user-images.githubusercontent.com/112992760/192676233-58f62038-e0d2-42a8-b8a1-b46416ddf446.jpg)
+
+
 ## Initial sketches
 
 ## **Re-homing Data visualization**
