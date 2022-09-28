@@ -26,6 +26,7 @@ In recent years pets being rehomed has been reduced owing to increased adoption 
 
 <img width="800" alt="Pet owner percent data 2019-present" src="https://user-images.githubusercontent.com/112992760/192661565-2ac918ae-1d80-4ee0-beb7-398af1e00ce4.png">
 
+<img width="800" alt="Post Pandemic retention pie chart" src="https://user-images.githubusercontent.com/112992760/192668218-e7388beb-0a48-4dab-8064-3e238ce6cb0d.png">
 
 
 ## Supporting Data
