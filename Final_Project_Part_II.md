@@ -3,7 +3,7 @@
 ## Storyboard
 [Link to Storyboard](https://data-viz-project-part-2.shorthandstories.com/media-project-proposal-travel/index.html)
 
-https://data-viz-project-part-2.shorthandstories.com/media-project-proposal-travel/index.html
+<script src="https://carnegiemellon.shorthandstories.com/Vaibhavi-Final-Project/embed.js"></script>
 
 ## Script
 Hi, I'm Vaibhavi and through this data visualization project, my aim is to emphasize the two call for actions essentially: 1. As a prospective pet adopter, it's important to know the amount of work involved and be fully aware and responsible to take care of their pets throughout the pet life as pet abandonment has so many consequences which aren't just bad for the pet but also for the owner. 2. As a pet owner, it's important to retain their pets as far as possible and take necessary help from animal shelters to take care of their pets. I spoke with three friends who provided feedback on my shorthand storyboard. The questions I asked them were
