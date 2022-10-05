@@ -1,5 +1,6 @@
 # Impact of Covid on Pet Adoption and Retention
 
+## Storyboard
 [Link to Storyboard](https://data-viz-project-part-2.shorthandstories.com/media-project-proposal-travel/index.html)
 
 ## Script
