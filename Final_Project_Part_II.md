@@ -34,6 +34,32 @@ My second user was a female in her 20s again who too has a pet cat that she rece
 
 1. The title was again not visible properly to her.
 2. She liked the story part in the Reveal section but said that she would have loved to see an overlap between story and data
+3. She gave me the idea to embed my flourish graphs into the storyboard so that way they are more interactive and readable.
+4. The call for action was properly stated but again got the feedback to include some more data related to pet mental health that gets affected due to rehoming to make the call for action more evident. 
+5. She gave me an idea to integrate my story and data by the use of a persona who has a pet or recently adopted one and the stages they went through
+6. The data sources was something she liked but thought that the charts could be more intuitive so that the reader need not read much of the content and still grasp the story easily
+
+
+My third user was male who is in his 60s and has an eye for detail in general. Currently, he does not have a pet but wishes to have one. He has had a pet during his childhood but its been ages since then. As a former pet owner he understands the seriousness of pet abandonment and was happy to provide the following feedback formy story:
+
+1. The title didn't bother him much and he didn't comment on its visibility.
+2. The Reveal section story he liked and thought that probably there could be some better way to refine the story in the reveal section by including some data points and highlighting them. 
+3. For the charts his attention was drawn to the pattern of alternately using text on left and image on right and said that while that is a good idea for a narrative, it starts seeming monotonous. His suggestion was to incorporate text over media in between to keep the reader engaged. 
+4. For the data is the charts, he said that I needed to darken my X and Y axes titles and increase the size of the graph on geographic data from animal humane society because the data provided on the title ribbon isn't visible.
+5. Lastly, he said that the draft looks good but he would like to see more easy to read charts or rather charts that interest the reader!
+
+
+### Similar Findings:
+1. Use of more data that shows the impact on pets mental health is what 2 of my users suggested
+2. Use of more interactive and infogram charts is what all the users wanted in the story
+3. Use of a better method to integrate my story and data to make it coherent than having a sequential version of story and then data charts
+
+### Different Findings:
+1. One finding that partcularly interested me was the alternate pattern usage my third user talked about. It's so simple but still holds so much weightage in terms of holding reader's attention.
+2. Use of persona was another thoughtful idea that my user 2 provided. 
+
+
+[Link back to profile](https://vaibhavibhidecmu.github.io/bhidePortfolio/)
 
 
 
