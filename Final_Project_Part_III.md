@@ -1,1 +1,11 @@
 # Final Project on "Adopt, don't Abandon!"
+
+## Changes made from lesseons learnt in Part 2:
+In my Part 2, the biggest lesson I learned was that I had my data and story not properly integrated like a story. This made is difficult for the audience to feel engaged because I started off with the idea of having a Reveal section where I told the main story in brief using pictures, and then follow up with proof using data visualizations. However, this method didn't work out because the feedback I received made me realize that audience generally prefer have a co-mingling of the story and data so that it looks cohesive. In Part three, I have tried to incorporate this by making sure that the story is built up gradually, with appropriately placed data visualizations. 
+Another learning that I had was that transition pages are important! I did not have proper transitions in part 2 and in part 3, I made sure to have transition sections so that the changes in the story does not seem abrupt. 
+One thing that I have followed for part 3 is to make use of a color scheme as far as possible for the infograms and the graphs. This way it looks more consistent and neat. 
+One subtle change that was made was the use of consistent wordings. While I as a researcher know in depth about the pet abandonment/ adoption lingos used in research papers, it is important to be mindful of the audience and to make use of consistent keywords. For example, Owner relinquishment of their pet is same as pet abandonment but it can confuse the audience if they are used interchangeably. Pet Intake and Outcome are some other keywords animal shelters use for defining number of pets obtained and number of pet adopted/ leaving the shelter due to some reason respectively. 
+
+## Design Decisions:
+I noticed that in Shorthand, the background image for Scrollmation and Text over Media generally seems brighter when uploaded. This made the text over it not visible enough. So, I made sure I increased the opacity of these background images for better text readability. 
+For the charts and infograms, I tried to keep the audience in mind and focused only on the key data point that I wanted to highlight, either by greying irrelevant data and 
