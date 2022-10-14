@@ -1,7 +1,7 @@
 # Final Project on "Adopt, don't Abandon!"
 
 ## Shorthand Link
-https://carnegiemellon.shorthandstories.com/adopt-dont-abandon/index.html
+[Adopt, don't Abandon](https://carnegiemellon.shorthandstories.com/adopt-dont-abandon/index.html)
 
 ## Behind the scenes
 This portfolio is inspired from my passion for animal welfare. During my research, I realized how abandonment actually causes grief and trauma to pets and they never seem to get out of it because they try to show it ways that are mostly cause nuisance for their new owners and they end up getting left to an animal shelter/ another family yet again. I also learned quite a few things that I wasn't aware about initially, such as the varied reasons behind a pet being abandoned, ranging from pet behivior being the most common, to divorces and new baby in the house or allergies and even landlord issues. <br/>
