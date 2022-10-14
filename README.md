@@ -30,5 +30,8 @@ This is where I'll be posting all cool stuff I create throughout the course!
 <br/>
 
 [Link to Project Part II](https://vaibhavibhidecmu.github.io/bhidePortfolio/Final_Project_Part_II)
+<br/>
+
+[Link to Final Project Part III](https://vaibhavibhidecmu.github.io/bhidePortfolio/Final_Project_Part_III)
 
 
